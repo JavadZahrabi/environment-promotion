@@ -7,7 +7,7 @@ spec:
   template:
     spec:
       containers:
-      - name: webvserver-simple
+      - name: webserver-simple
         env:
         - name: UI_THEME
           value: "light"
@@ -19,4 +19,3 @@ spec:
           value: "ascending"    
         - name: N_BUCKETS
           value: "42"
-        
