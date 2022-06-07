@@ -7,7 +7,7 @@ spec:
   template:
     spec:
       containers:
-      - name: wevserver-simple
+      - name: webvserver-simple
         env:
         - name: UI_THEME
           value: "light"
