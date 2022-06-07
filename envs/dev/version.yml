@@ -2,7 +2,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: Simple-deployment
+  name: simple-deployment
 spec:
   template:
     spec:
