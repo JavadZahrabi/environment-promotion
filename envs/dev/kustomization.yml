@@ -7,7 +7,7 @@ namePrefix: dev-
 resource:
 - ../../base
 
-component:
+components:
   - ../../variants/non-prod
 
 patchesStrategicMerge:
