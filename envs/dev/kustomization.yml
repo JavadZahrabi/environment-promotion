@@ -10,6 +10,3 @@ patchesStrategicMerge:
 - deployment.yml
 - version.yml
 - settings.yml
-images:
-- name: docker.io/javadza/environment-promotion
-  newTag: "4.0"
