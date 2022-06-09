@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - docker.io/javadza/environment-promotion:4.0
+  - docker.io/javadza/environment-promotion:5.0
