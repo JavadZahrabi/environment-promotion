@@ -1,3 +1,0 @@
-kustomize:
-  images:
-  - docker.io/javadza/environment-promotion:5.0
