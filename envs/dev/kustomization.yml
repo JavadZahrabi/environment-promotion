@@ -12,4 +12,4 @@ patchesStrategicMerge:
 - settings.yml
 images:
 - name: docker.io/javadza/environment-promotion
-  newTag: "4.0"
+  newTag: 2022-06-19-dabba74
